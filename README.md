@@ -25,7 +25,7 @@ Now that the JavaScript and HTML coding is complete, let's look at the webpage:
 ![Screen Shot 2022-05-12 at 2 13 16 PM](https://user-images.githubusercontent.com/95712234/168141444-26310e02-a25d-46ba-a223-34ec811e4181.png)
 
 
-In order to conduct a search, one may enter the required info in the 'date', 'city', 'state', 'country' and/or 'shape' search boxes to filter the  UFO sightings data. Upon entering the desired criteria and pressing 'enter', the webpage will produce the filtered results. In order to refresh the page, one may click the 'UFO Sightings' button located in the top left corner of the webpage.
+In order to conduct a search, one may enter the required info in the 'date', 'city', 'state', 'country' and/or 'shape' search boxes to filter the  UFO sightings data. Upon entering the desired criteria and pressing 'enter', the webpage will produce the filtered results after the 'click'. In order to refresh the page, one may click the 'UFO Sightings' button located in the top left corner of the webpage.
 
 
 ## Summary:
